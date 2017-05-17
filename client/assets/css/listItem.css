@@ -1,0 +1,13 @@
+.imgCard {
+  width: 75px;
+  height: 230px;
+  padding-top: 20px;
+}
+
+.myCard {
+  min-height: 450px;
+}
+
+.listCard {
+  margin-bottom: 20px;
+}
