@@ -1,6 +1,6 @@
 # Integration Punk API
 
-It's a CASE consuming resource of the following general purpose API:
+This is a CASE that consumes resource of the following general purpose API:
 
 - [Punk API](https://punkapi.com/documentation/v2)
 
